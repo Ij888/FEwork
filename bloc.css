@@ -10,9 +10,12 @@ background-color: #FF00C3;
 
 .container{width: 100%; display: -webkit-box;}
 
-.tleft{padding: 35px 0px; background: #456;}
-.dleft{padding: 35px 0px; background: #678;}
+.tleft{padding: 35px 0px; background: #456; color: aliceblue;}
+.dleft{padding: 35px 0px; background: #678; color: azure;}
 .rt{padding: 80px 0px; background: #789;}
+
+.tleft, .dleft{font-size: auto;}
+
 
 .leftdiv, .rightdiv{display:-webkit-flexbox;}
 
