@@ -1,5 +1,5 @@
 function rotdiv(){
-var aArray = ["love", "joy", "peace", "kindness", "self-control"];
+var aArray = ["love", "joy", "peace", "kindness", "self-control", "faith"];
 
 var rnd1 = aArray[Math.floor(Math.random()*2)];
 var rnd2 = aArray[Math.floor(Math.random()*2)];
