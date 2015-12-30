@@ -1,2 +1,2 @@
 # FEwork
-Studies in Front End Tasks-- Vanilla HTML, CSS and JS all the way.
+Studies in JS: fetching divs and displaying them using vanilla JS
