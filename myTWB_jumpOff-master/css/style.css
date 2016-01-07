@@ -8,7 +8,7 @@ body {
 	height:100%;
 	/*color:#fff;
 	overflow:none;*/
-	margin-bottom: 0px;
+	margin-bottom: 0px; /*removed the blank space under the JMBTRN*/
 }
 
 .bg1{
@@ -18,8 +18,10 @@ body {
 
 .ha-wrappr{
 	text-align: center;
+	
 }
 
+.prel{position: relative;}
 .testcase{
 	background: #555; 
 	border-right: 3px solid red;
@@ -28,4 +30,8 @@ body {
 	border-bottom: 3px solid blue;
 }
 
-.mxheight{max-height: 100px;}
+.divbox{
+	height: 140px;
+	background: red;
+	padding: 10px 0;
+	}
