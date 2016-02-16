@@ -1,2 +1,2 @@
-# FEwork
-Studies in Front End Tasks with Vanilla HTML, CSS and JS.
+# FrontEndJSwork
+Studies in browser vanilla JS with some HTML and CSS.
